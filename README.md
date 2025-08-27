@@ -19,7 +19,7 @@
 }
 ```
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamydv39&column=-1" alt="shivamydv39" /></a> </p>
+
 
 
 <!-- GitHub Readme Streak Stats-->
