@@ -15,7 +15,7 @@
 {
     name: 'Shivam Yadav',
     education: 'Final year CSE undergrad at Indian Institute of Information Technology Ranchi, India',
-    currentlyWorkingOn: 'Full stack App(Flutter) and DevOps',
+    currently WorkingOn: 'Full stack App(Flutter) and DevOps',
 }
 ```
 
