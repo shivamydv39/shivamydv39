@@ -24,28 +24,7 @@
 
 <!-- GitHub Readme Streak Stats-->
 <!-- ## 🔥 Streak stats -->
-<table align="center">
-  <tr>
-<!--     <td colspan="2" align="center"><img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td> -->
-         <td colspan="2" align="center">
-    <a href="https://git.io/streak-stats">
-        <img alt="GitHub Streak" src="https://github-readme-streak-stats-7a3hq3j0q-aman1337g.vercel.app?user=shivamydv39&theme=dark">
-    </a>
-</td>
 
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamydv39&theme=xcode"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shivamydv39&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10"/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.svg"/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"/>
     
 
 </td>
