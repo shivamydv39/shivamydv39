@@ -13,9 +13,9 @@
 
 ```py
 {
-    name: 'Shivam Yadav',
-    education: 'Final year CSE undergrad at Indian Institute of Information Technology Ranchi',
-    currently WorkingOn: 'Full stack App(Flutter) and DevOps',
+    Name: 'Shivam Yadav',
+    Education: 'Final year CSE undergrad at Indian Institute of Information Technology Ranchi',
+    Currently WorkingOn: 'Full stack App(Flutter) and DevOps',
 }
 ```
 
